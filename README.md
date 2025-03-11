@@ -4,7 +4,7 @@ A multi-page web application built using **React & Next.js**, replicating four p
 
 ## 📌 Live Demo
 
-🔗 [Deployed Link]()
+🔗 [Deployed Link](https://better-com-clone-medius.netlify.app/)
 
 ## 📂 Repository
 
